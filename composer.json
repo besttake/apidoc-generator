@@ -3,13 +3,13 @@
     "license": "MIT",
     "description": "Generate beautiful API documentation from your Laravel application",
     "keywords": [
-        "API”,
+        "API",
         "Documentation",
         "Laravel"
     ],
     "authors": [
         {
-            "name": “besttake”
+            "name": "besttake"
         }
     ],
     "require": {

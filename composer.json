@@ -1,9 +1,9 @@
 {
-    "name": “lvmama/laravel-apidoc-generator",
+    "name": "lvmama/laravel-apidoc-generator",
     "license": "MIT",
     "description": "Generate beautiful API documentation from your Laravel application",
     "keywords": [
-        "API",
+        "API”,
         "Documentation",
         "Laravel"
     ],
